@@ -1,0 +1,25 @@
+{
+  "name": "mini-framework",
+  "version": "0.9.2",
+  "description": "A simple naive startup framework for ongoing learning",
+  "main": "index.php",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "php index.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ypwu"
+  },
+  "keywords": [
+    "mini",
+    "laravel",
+    "framework",
+    "startup"
+  ],
+  "author": "ypwu",
+  "license": "ISC"
+}
